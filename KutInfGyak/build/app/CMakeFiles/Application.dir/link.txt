@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/Application.dir/src/app.c.o  -o Application -rdynamic ../phys/libphys.a 
