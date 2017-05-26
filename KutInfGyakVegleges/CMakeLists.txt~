@@ -1,0 +1,12 @@
+
+project (FoldHold)
+
+cmake_minimum_required (VERSION 3.0.5)
+
+
+add_compile_options (-lm)
+
+add_subdirectory (phys)
+add_subdirectory (app)
+add_subdirectory (doc)
+

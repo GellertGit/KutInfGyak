@@ -1,0 +1,4 @@
+/home/gellert/Dokumentumok/tan/KutInf/KutInfGyakJo/build/app/CMakeFiles/app.dir
+/home/gellert/Dokumentumok/tan/KutInf/KutInfGyakJo/build/app/CMakeFiles/data.dir
+/home/gellert/Dokumentumok/tan/KutInf/KutInfGyakJo/build/phys/CMakeFiles/phys.dir
+/home/gellert/Dokumentumok/tan/KutInf/KutInfGyakJo/build/doc/CMakeFiles/png.dir

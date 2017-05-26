@@ -1,0 +1,2 @@
+/usr/bin/ar cr libphys.a  CMakeFiles/phys.dir/src/phys.c.o
+/usr/bin/ranlib libphys.a

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/inc/app.h
+phys.h
+-
+
+../phys/inc/phys.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+
+/home/gellert/Dokumentumok/tan/KutInf/KutInfGyakJo/app/src/app.c
+app.h
+-
+
